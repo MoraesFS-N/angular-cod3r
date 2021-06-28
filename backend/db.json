@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.98
+    },
+    {
+      "id": 2,
+      "name": "MacBook PRO",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+",
+      "price": 5000
+    },
+    {
+      "id": 4,
+      "name": "Xiaomi Redmi Note 9S",
+      "price": 2500
+    },
+    {
+      "name": "Geladeira Consul Frost free",
+      "price": 3500,
+      "id": 5
+    }
+  ]
+}
