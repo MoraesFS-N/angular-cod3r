@@ -15,6 +15,7 @@ import { MatListModule } from "@angular/material/list";
 import { HomeComponent } from './views/home/home.component';
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
 import { RedApplyDirective } from './directives/red-apply.directive';
+import { ForDirective } from './directives/for.directive';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { RedApplyDirective } from './directives/red-apply.directive';
     NavComponent,
     HomeComponent,
     ProductCrudComponent,
-    RedApplyDirective
+    RedApplyDirective,
+    ForDirective
   ],
   imports: [
     BrowserModule,
